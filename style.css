@@ -4,3 +4,6 @@ header { background: #2c3e50; color: #fff; padding: 2rem; text-align: center; }
 #habilidades { padding: 2rem; }
 #habilidades ul { list-style: none; display: flex; gap: 1rem; flex-wrap: wrap; }
 #habilidades li { background: #ecf0f1; padding: 0.5rem 1rem; border-radius: 5px; }
+.libros-container { display: flex; gap: 1rem; flex-wrap: wrap; padding: 2rem; }
+.libro { border: 1px solid #ddd; padding: 1rem; width: 200px; text-align: center; }
+.libro img { max-width: 100%; border-radius: 5px; }
